@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @mafia_Tobatz
+# Recife By #Mafia_Tobatz
 
 import logging
 import os
@@ -21,7 +21,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "Matfia_Tobatz")
+OWNER = os.environ.get("OWNER", "@Mafia_Tobatz")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
@@ -32,8 +32,11 @@ GROUP = os.environ.get("GROUP", "SharingUserbot")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
-FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "0"))
+
+# ID dari Channel Atau Group Untuk Wajib Subscribenya
+FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
+
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
