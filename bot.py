@@ -48,7 +48,7 @@ class Bot(Client):
                     f"Silakan periksa kembali var FORCE_SUB_CHANNEL dan Pastikan Bot anda Admin di Channel dengan izin link invite Pengguna melalui link undangan, Subs Channel Saat Ini: {FORCE_SUB_CHANNEL}"
                 )
                 self.LOGGER(__name__).info(
-                    "\nBot Berhenti. Tanya ke https://t.me/TeleUdahRusak untuk Bantuan"
+                    "\nBot Berhenti. Tanya ke https://t.me/SharingUserbot untuk Bantuan"
                 )
                 sys.exit()
         if FORCE_SUB_GROUP:
