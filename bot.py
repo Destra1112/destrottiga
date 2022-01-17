@@ -1,5 +1,7 @@
 # (©)Codexbotz
 # Recode by @mafia_Tobatz
+# Kalo clone Gak usah hapus 
+#gue tandain akun tele nya ngentod
 
 import pyromod.listen
 import sys
