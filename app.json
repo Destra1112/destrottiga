@@ -41,7 +41,7 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
      },
-    "FORCE_SUB_CHANNEL": {
+    "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100
    },
