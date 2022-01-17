@@ -1,13 +1,13 @@
 {
-  "name": "File Sharing Bot",
+  "name": "File Sharing",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Zaen-ubot/File-Sharing-Bot.",
-  "logo": "https://telegra.ph/file/b688e58dc41a577ec1616.jpg",
+  "repository": "https://github.com/Zaen-ubot/File-Sharing",
+  "logo": "https://telegra.ph/file/c168ea48b97c702017ead.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mafia_Tobatz"
+      "value": "TeleUdahRusak"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -40,11 +40,11 @@
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
-     },
+    },
     "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100
-   },
+      "value": "-100"
+    },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
@@ -59,14 +59,14 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Lunatic0de",
+      "value": "ZaenSupport",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "SharingUserbot",
+      "value": "ZaenSupport",
       "required": false
-    }
+   } 
   },
   "addons": [
     {
@@ -88,4 +88,3 @@
     }
   }
 }
-
