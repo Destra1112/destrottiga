@@ -11,6 +11,7 @@ from config import (
     APP_ID,
     CHANNEL_ID,
     FORCE_SUB_CHANNEL,
+    FORCE_SUB_CHANNEL2,
     FORCE_SUB_GROUP,
     LOGGER,
     OWNER,
@@ -84,7 +85,7 @@ class Bot(Client):
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke  https://t.me/TeleUdahRusak"
+            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke https://t.me/TeleUdahRusak"
         )
         self.username = usr_bot_me.username
 
