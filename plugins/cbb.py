@@ -1,5 +1,7 @@
 # (©)Codexbotz
 # Recode by @Mafia_Tobatz
+# Kalo clone Gak usah hapus ini ngentod
+# gue tandain akun tele nya ngentod
 
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
