@@ -1,5 +1,7 @@
 # (©)Codexbotz
 # Recife By #Mafia_Tobatz
+# Kalo clone Gak usah hapus ini ngentod
+# gue tandain akun tele nya ngentod
 
 import logging
 import os
