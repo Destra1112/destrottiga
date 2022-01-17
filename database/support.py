@@ -1,5 +1,7 @@
 # (©)Codexbotz
 # Recode by Zaen @Mafia_Tobatz
+# Kalo clone Gak usah hapus ini ngentod
+# gue tandain akun tele nya ngentod
 
 
 import asyncio
