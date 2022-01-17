@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Zaen-ubot/File.-Sharing",
+  "repository": "https://github.com/Zaen-ubot/File-Sharing-Bot.",
   "logo": "https://telegra.ph/file/b688e58dc41a577ec1616.jpg",
   "env": {
     "TG_BOT_TOKEN": {
