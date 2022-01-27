@@ -120,7 +120,7 @@ async def start_command(client: Client, message: Message):
                 InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟮", url=client.invitelink2),
             ],
             [
-                InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟯", url=client.invitelink3),
+                InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟯", url=client.invitelink1),
                 InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 4", url=client.invitelink4),
             ],  
             [
@@ -155,7 +155,7 @@ async def not_joined(client: Client, message: Message):
             InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟮", url=client.invitelink2),
         ],
         [
-             InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟯", url=client.invitelink3),
+             InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝟯", url=client.invitelink1),
              InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹 4", url=client.invitelink4),    
         ],
     ]
